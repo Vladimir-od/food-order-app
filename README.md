@@ -1,7 +1,9 @@
 # food-order-app
 
-To start app you need run in two separate terminals :
+To start the app you need to run it in two separate terminals :
 
-npm start - to start backend
+npm install
+npm start - to start the backend
 
-npm run dev - to start front-end
+npm install
+npm run dev - to start the front-end
